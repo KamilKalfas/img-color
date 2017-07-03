@@ -1,6 +1,6 @@
 {
   "name": "img-color",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get dominant color of image from url",
   "repository": {
     "type": "git",
