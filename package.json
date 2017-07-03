@@ -1,0 +1,30 @@
+{
+  "name": "img-color",
+  "version": "1.0.0",
+  "description": "Get dominant color of image from url",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KamilKalfas/img-color.git"
+  },
+  "keywords": [
+    "image",
+    "url",
+    "dominant color",
+    "dominant",
+    "color"
+  ],
+  "author": {
+    "name": "Kamil Kalfas",
+    "email": "kamilkalfas@gmail.com"
+  },
+  "dependencies": {
+    "dominant-color": "0.0.1",
+    "download": "^6.2.5",
+    "temp": "^0.8.3"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KamilKalfas/img-color/issues"
+  },
+  "homepage": "https://github.com/KamilKalfas/img-color#readme"
+}
