@@ -1,6 +1,6 @@
 {
   "name": "img-color",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Get dominant color of image from url",
   "repository": {
     "type": "git",
@@ -26,5 +26,14 @@
   "bugs": {
     "url": "https://github.com/KamilKalfas/img-color/issues"
   },
-  "homepage": "https://github.com/KamilKalfas/img-color#readme"
+  "homepage": "https://github.com/KamilKalfas/img-color#readme",
+  "scripts": {
+    "test": "xo"
+  },
+  "xo": {
+    "space": true
+  },
+  "devDependencies": {
+    "xo": "^0.18.2"
+  }
 }
