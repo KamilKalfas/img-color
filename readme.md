@@ -21,6 +21,6 @@ color.getDominantColor(url)
 ```
 ## Output
 returns json object wher _key_ is `dColor` and _value_ `hex formated color` 
-```json
+```
 { dColor: 'ffc20c' }
 ```
